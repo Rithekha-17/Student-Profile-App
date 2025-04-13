@@ -13,33 +13,20 @@ The Student Profile Management System is a Flutter-based mobile application that
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-profile-management.git
-2. Navigate to the project directory:
-     cd student-profile-management
-3. Install dependencies:
-     flutter pub get
-   
+1. Clone the repository: `git clone https://github.com/your-username/student-profile-management.git`
+2. Navigate to the project directory: `cd student-profile-management`
+3. Install dependencies: `flutter pub get`
+
 ### Configuration
-1. Create a Firebase project at Firebase Console.
-      
-2. Obtain the Firebase configuration file:
-      
-      google-services.json for Android
-      
-      GoogleService-Info.plist for iOS
 
-3. Place the respective configuration file in the android/app or ios/Runner directory accordingly.
+1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
+2. Obtain the Firebase configuration file (`google-services.json` for Android, `GoogleService-Info.plist` for iOS) and place it in the `android/app` or `ios/Runner` directory accordingly.
 
-### Usage
+## Usage
 
-Usage
-1. Run the application:
-  flutter run
-
-2.Log in with your student credentials.
-
+1. Run the application: `flutter run`
+2. Log in with your student credentials.
 3. View and manage your profile details.
-
 4. Admins can post announcements using the admin interface.
+
+
